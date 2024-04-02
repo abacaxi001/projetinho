@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objetivos para meu ano escolar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="conteudo-principal">
+        <h2 class="titulo-principal">Objetivo para meu ano escolar<span>_</span></h2>
+        <div class="conteudo">
+        <div class="botoes">
+            <button class="botao ativo">Estabelecer Metas</button>
+            <button class="botao">Participação</button>
+            <button class="botao">Desenvolvimento</button>
+            <button class="botao">Buscas</button>
+        </div>
+        <div class="abas-textos">
+            <div class="aba-conteudo ativo">
+                <h3 class="aba-conteudo-titulo-principal">Estabelecer metas semanais de estudo para todas as disciplinas,</h3>
+                <h4 class="aba-conteudo-titulo-secundario">revisando os conteúdos regularmente.</h4>
+                <div class="contador"></div>
+            </div>
+            <div class="aba-conteudo">
+                <h3 class="aba-conteudo-titulo-principal">Participar ativamente das aulas, colaborando para um melhor aprendizado e</h3>
+                <h4 class="aba-conteudo-titulo-secundario">fazendo perguntas e pesquisas sobre minhas dúvidas.</h4>
+                <div class="contador"></div>
+            </div>
+            <div class="aba-conteudo">
+                <h3 class="aba-conteudo-titulo-principal">Desenvolver habilidades de organização e gestão de tempo para</h3>
+                <h4 class="aba-conteudo-titulo-secundario">equilibrar estudos, atividades extracurriculares e lazer.</h4>
+                <div class="contador"></div>
+            </div>
+            <div class="aba-conteudo">
+                <h3 class="aba-conteudo-titulo-principal">Buscar ajuda sempre que surgirem dúvidas para aprofundar o entendimento dos temas.</h3>
+                <h4 class="aba-conteudo-titulo-secundario">Perguntas e pesquisas podem tirar muitas dúvidas, assim como alguns tempos tirados para estudo em casa e video aulas.</h4>
+                <div class="contador"></div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <script src="main.js"></script>
+</body>
+</html>
